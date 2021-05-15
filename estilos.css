@@ -45,6 +45,10 @@ hr{
 	display: none;
 }
 
+.menu ul ul li{
+	border-top: 1px solid white;
+}
+
 .menu ul p{
 	display: none;
 }
