@@ -20,11 +20,6 @@ header label{
 	display: none;
 }
 
-table{
-	width: 90%;
-	margin: 2% auto;
-}
-
 video{
 	width: 60%;
 	margin: auto;
@@ -106,12 +101,6 @@ hr{
 .img{
 	width: 90%;
 	margin: 2% auto;
-}
-
-.img-table{
-	width: 300px;
-	height: 300px;
-	align-items: center;
 }
 
 .fila p{
