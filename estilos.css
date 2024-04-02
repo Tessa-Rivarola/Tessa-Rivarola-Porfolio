@@ -26,10 +26,7 @@ video{
 	padding-top: 15px;
 }
 
-hr{
-	width: 80%;
-	margin: auto;
-}
+
 
 #btn-menu{
 	display: none;
@@ -89,6 +86,11 @@ hr{
 	left: 80px;
 	/*margin-top: 5px;*/
 	padding: 10px;
+}
+
+hr{
+	width: 80%;
+	margin: auto;
 }
 
 .fila{
