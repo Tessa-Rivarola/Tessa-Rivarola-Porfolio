@@ -27,7 +27,7 @@ video{
 }
 
 hr{
-	width: 90%;
+	width: 80%;
 	margin: auto;
 }
 
@@ -92,7 +92,7 @@ hr{
 }
 
 .fila{
-	width: 100%;
+	width: 80%;
 	/* margin: 2% auto; */
 	margin: auto;
 	text-align: center;
@@ -100,12 +100,12 @@ hr{
 
 .img{
 	width: 80%;
-	margin: 2% auto;
+	margin: 2%;
 }
 
 .fila p{
 	line-height: 30px;
-	width: 70%;
+	width: 80%;
 	margin: auto;
 }
 
@@ -128,6 +128,10 @@ hr{
 
 .imagen3{
 	height: 600px;
+}
+
+.imagen4{
+	height: 350px;
 }
 
 .fa-instagram{
